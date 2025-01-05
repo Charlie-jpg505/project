@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:cyan;
+    padding: 8px;
+}
+header a{
+    border-radius: 5px;
+    background-color: darkblue;
+    padding: 3px;
+}
+main h1{
+    text-align: center;
+    color: grey;
+}
+footer{
+    background-color: orange;
+    padding: 16px;
+    border-radius: 8px;
+}
+footer p{
+    background-color: white ;
+    border: 8px;
+}
+header{
+    background-color: purple;
+    padding: 5px;
+}
+header a{
+    border-radius: 8px;
+    background-color: blueviolet;
+}
